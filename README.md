@@ -38,7 +38,7 @@ So I wanted to suggest a design for a framework which is easy to use, extendable
 * Download
 
 ## Download 
-[A Unified Framework for Rigid Body Dynamics (.pdf, 3.5MB)](https://github.com/Helikin/Physics-Engine-Thesis/blob/master/A%20Unified%20Framework%20for%20Rigid%20Body%20Dynamics.pdf)
+[A Unified Framework for Rigid Body Dynamics (.pdf, 3.5MB)](https://github.com/Helikin/Physics-Engine-Thesis/raw/master/A%20Unified%20Framework%20for%20Rigid%20Body%20Dynamics.pdf)
 
 ## Videos
 
