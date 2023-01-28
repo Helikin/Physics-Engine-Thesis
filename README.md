@@ -1,7 +1,7 @@
 # A Unified Framework for Rigid Body Dynamics 
 by Helmut Garstenauer
 
-In 2005 I finished my master thesis about rigid body dynamics. It shows how to build a rigid body physics engine for interactive 3d applications. I am sure it is a good starting point for everyone who wants to learn about game physics. If you have any questions, you can contact me via email:  rigid-body-thesis (AT) outlook (DOT) com (AT)
+In 2005 I finished my master thesis about rigid body dynamics. It shows how to build a rigid body physics engine for interactive 3d applications. I am sure it is a good starting point for everyone who wants to learn about game physics. If you have any questions, you can contact me via email:  rigid-body-thesis (AT) outlook (DOT) com
 
 * [Goals of this Thesis](#goals-of-this-thesis)
 * [From the Content](#from-the-content)
